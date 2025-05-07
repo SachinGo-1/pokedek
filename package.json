@@ -1,5 +1,6 @@
 {
   "name": "pokedex",
+   "homepage": "https://sachingo-1.github.io/pokedek/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
